@@ -5,21 +5,43 @@ The themes available for Astrox, but for Firefox.
 Currently not available. However, they will be... _soon_.
 
 ## 🖼️ Theme Concepts
-Safari Classic
-<img width="1224" alt="safari classic theme" src="https://github.com/SamFrox/Astrox-Themes/assets/108837401/d7966a29-7a14-4b1a-998d-4652fd26b3bf">
+<details><summary>Safari Classic</summary>
 
-Safari 15
-![safari15 theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/df75ec0b-8d7e-4693-b21f-27ef7104224d)
+<img width="1224" alt="safari classic theme" src="https://github.com/SamFrox/Astrox-Themes/assets/108837401/7af85374-7d12-4879-a884-d8d7839dd1d2">
 
-Safari Modal
-![copy-modal theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/07aef9b4-d734-480b-b45b-fcc4b6d98ee1)
+</details>
+<br>
 
-Arc
+
+<details><summary>Safari 15</summary>
+  
+![safari15 theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/35b8c2ae-9da5-4a56-b82b-84ddc47de452)
+
+</details>
+<br>
+
+
+<details><summary>Safari Modal</summary>
+  
+![copy-modal theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/7e6e4cbb-66aa-4bbf-9a75-5aaf4d65820d)
+
+</details>
+<br>
+
+
+<details><summary>Arc</summary>
+  
 ![arc theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/366a7373-0e66-4337-837b-3b8d0b418452)
 
+</details>
+<br>
 
-Chromium
+<details><summary>Chromium</summary>
+
 ![chromium theme](https://github.com/SamFrox/Astrox-Themes/assets/108837401/4cbe5171-91dc-434a-9a3f-081934a5398b)
+
+</details>
+<br>
 
 
 ## ⚙️ Theme Status
