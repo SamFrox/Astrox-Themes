@@ -29,12 +29,28 @@ Safari Modal: `Not started`
 Arc: `Not started`
 Chromium: `Not started`
 
+## 🪪 Credits
+Safari Classic Concept: 512Pixels
+[Link](https://512pixels.net/2021/08/the-safari-15-fight-isnt-over-yet/)
+
+Safari 15 Concept: 9to5mac
+[Link](https://9to5mac.com/2021/09/21/safari-15-with-new-tab-design-now-available-for-macos-big-sur-and-catalina-users/)
+
+Safari Modal Concept: Oğuz Yağız Kara
+[Link](https://dribbble.com/shots/21273351-Briefs-Table-View)
+
+Arc Concept: vladstudio
+[Link](https://orionfeedback.org/d/2783-random-thoughts-on-arc-orion-and-stuff)
+
+Chromium Concept: usrnk1
+[Link](https://dribbble.com/shots/19339257-Slide-Over-Panel-Quality-Control-Check-Details)
+
 ## 💬 FAQ
-# Q: What is Astrox?
+### Q: What is Astrox?
 A: It's not your time to know. For now, it's just a themepack.
 
-#Q: When will these themes be finished?
+### Q: When will these themes be finished?
 A: No idea.
 
-#Q: Are these questions really frequently asked?
+### Q: Are these questions really frequently asked?
 A: Technically, no. I don't even know if anyone will read this.
