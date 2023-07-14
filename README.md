@@ -30,19 +30,19 @@ Arc: `Not started`
 Chromium: `Not started`
 
 ## 🪪 Credits
-Safari Classic Concept: 512Pixels
+Safari Classic Concept: **512Pixels**
 [Link](https://512pixels.net/2021/08/the-safari-15-fight-isnt-over-yet/)
 
-Safari 15 Concept: 9to5mac
+Safari 15 Concept: **9to5mac**
 [Link](https://9to5mac.com/2021/09/21/safari-15-with-new-tab-design-now-available-for-macos-big-sur-and-catalina-users/)
 
-Safari Modal Concept: Oğuz Yağız Kara
+Safari Modal Concept: **Oğuz Yağız Kara**
 [Link](https://dribbble.com/shots/21273351-Briefs-Table-View)
 
-Arc Concept: vladstudio
+Arc Concept: **vladstudio**
 [Link](https://orionfeedback.org/d/2783-random-thoughts-on-arc-orion-and-stuff)
 
-Chromium Concept: usrnk1
+Chromium Concept: **usrnk1**
 [Link](https://dribbble.com/shots/19339257-Slide-Over-Panel-Quality-Control-Check-Details)
 
 ## 💬 FAQ
